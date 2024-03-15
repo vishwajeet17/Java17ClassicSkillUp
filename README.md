@@ -1,2 +1,2 @@
 # Java17ClassicSkillUp
-Java 17 Cassic SkillUp training codes
+Java 17 Classic SkillUp training codes
